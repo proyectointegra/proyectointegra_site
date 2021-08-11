@@ -1,0 +1,95 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+.parallax-container {
+  /*min-height: 380px;*/
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+#cta {
+    height: 200px;
+}
+
+#index-banner {
+    height: 300px;
+}
+#contact-banner {
+    height: 200px;
+}
+
+.minimap {
+    position:relative;
+    text-align:right;
+    height:300px;
+    /*width:400px;*/
+    margin-right: 50px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:300px;
+    /*width:400px;*/
+}
+
+#footer-social a {
+    margin-right: 6px;
+}
+
+#insta i:hover {
+    color: #fff59d;
+}
+#fb i:hover {
+    color: #fff59d;
+}
+#blog i:hover {
+    color: #fff59d;
+}
+#mail i:hover {
+    color: #fff59d;
+}

@@ -1,0 +1,8 @@
+#documents-table {
+  table-layout: fixed;
+}
+
+#documents-table td {
+  max-width: 400px;
+  overflow: hidden;
+}

@@ -1,0 +1,33 @@
+.blog-card {
+  height: 300px;
+}
+.pi-card {
+  cursor: pointer;
+  margin: 10px 0px;
+  /*
+  background-color: rgba(76, 175, 80, 0.3);
+  background-color:rgba(0, 0, 0, 0.03);
+  */
+}
+
+.pi-card > a > img {
+  width: 100%;
+  margin: 0px;
+}
+
+.pi-card > a > * {
+  margin: 20px 10px 0px;
+}
+
+.pi-card a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  color: black;
+}
+
+.pi-card-info a:hover {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
