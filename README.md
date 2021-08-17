@@ -1,4 +1,4 @@
-# Plataforma Integra
+# Sitio Integra
 
 Este sitio fue modificado como parte proyecto de trabajo comunal universitario con el fin de aportar a la causa de Integra de una forma sin costo y eficaz. Todos los componentes usados en este sitio son gratuitos.
 
